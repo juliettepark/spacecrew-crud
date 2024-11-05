@@ -29,7 +29,8 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the CRUD functionality:
+![](https://github.com/juliettepark/spacecrew-crud/blob/main/spacecrew_crud_demo.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
